@@ -8,7 +8,7 @@ https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ### Live site
 
-
+https://qrcode-frontendmentor-peach.vercel.app/
 
 ### Nota
 - Esse challenge foi feito com o objetivo de aprender e entender o básico de HTML e CSS. 
